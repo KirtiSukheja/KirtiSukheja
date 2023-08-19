@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning *Java Development*
 
-- 👨‍💻 All of my projects are available at [https://github.com/KirtiSukheja](https://github.com/KirtiSukheja
+- 👨‍💻 All of my projects are available at https://github.com/KirtiSukheja https://github.com/KirtiSukheja
 
 - 📫 How to reach me *kirtisukheja8@gmail.com*
 
